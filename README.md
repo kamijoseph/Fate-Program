@@ -1,1 +1,1 @@
-# Fate-Program
+Fate Algorithm version 1
